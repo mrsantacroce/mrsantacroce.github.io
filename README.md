@@ -1,2 +1,2 @@
 # mrsantacroce.github.io
-Portfolio of mrsantacroce
+Portfolio of Matt Santacroce (@mrsantacroce on GitHub)
